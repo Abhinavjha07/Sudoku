@@ -6,7 +6,6 @@ from CycleCrossover import CycleCrossover
 random.seed(100)
 dim = 9
 
-
 class Sudoku(object):
     def __init__(self):
         self.given = None
